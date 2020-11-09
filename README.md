@@ -3,40 +3,42 @@
 ### 팀원: 17011720 심소민, 17011730 이유진
 ======================
 
-### ● Workflow
+## ● Workflow
+![image](https://user-images.githubusercontent.com/60233499/98541829-60a80500-22d3-11eb-8abb-1566c28657ab.png)
 ```
-데이터 수집 (Data Collection)
-데이터 전처리 (Data Preprocessing)
-탐색적 데이터 분석 (EDA: Exploratory Data Analysis)
-모델 선택 (Model Selection)
-평가 및 적용 (Evaluation & Application)
-Conclusion
-
-1. 데이터 탐색 및 시각화
-2. 데이터 전처리
-3. 모델 선택 및 훈련
-4. 모델 세부 튜닝
-5. 결론
+	1. 데이터 수집 (Data Collection)
+	
+	2. 데이터 전처리 (Data Preprocessing)
+	
+	3. 탐색적 데이터 분석 (EDA: Exploratory Data Analysis)
+	
+	4. 모델 선택 (Model Selection)
+	
+	5. 평가 및 적용 (Evaluation & Application)
+	
+	6. 결론 (Conclusion)
 ```
-
-# 1. NLP 자연어 처리 공부
+****
+## 1. 데이터 수집 (Data Collection)
 ## 1.1. 
-
-## 1.2. 장-단점
-### 1.2.1. 장점
-	1. 간결하다.
 	
 ****
+## 2. 데이터 전처리 (Data Preprocessing)
 
-## 2.3. 목록
-### ● 순서있는 목록(번호)
+****	
+## 3. 탐색적 데이터 분석 (EDA: Exploratory Data Analysis)
 
-* 1단계
-  - 2단계
-    + 3단계
-      + 4단계
+****	
+## 4. 모델 선택 (Model Selection)
 
-*****
+****	
+## 5. 평가 및 적용 (Evaluation & Application)
+
+****	
+## 6. 결론 (Conclusion)
+
+****
+
 
 ## ○ 참고문서
 * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
