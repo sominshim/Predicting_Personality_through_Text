@@ -20,7 +20,8 @@
 ```
 ****
 ## 1. 데이터 수집 (Data Collection)
-kaggle data download - https://www.kaggle.com/datasnaek/mbti-type
+kaggle data download 
+- https://www.kaggle.com/datasnaek/mbti-type
 	
 ****
 ## 2. 데이터 전처리 (Data Preprocessing)
