@@ -20,7 +20,7 @@
 ```
 ****
 ## 1. 데이터 수집 (Data Collection)
-Download Kaggle data 
+Download Kaggle data \
 (MBTI) Myers-Briggs Personality Type Dataset
 - https://www.kaggle.com/datasnaek/mbti-type
 	
