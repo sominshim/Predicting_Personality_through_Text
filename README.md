@@ -20,7 +20,7 @@
 ```
 ****
 ## 1. 데이터 수집 (Data Collection)
-kaggle data download 
+Download Kaggle data (mbti_1.csv)
 - https://www.kaggle.com/datasnaek/mbti-type
 	
 ****
