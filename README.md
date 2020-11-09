@@ -1,4 +1,5 @@
 # [고급기계학습] SNS 게시글을 통한 MBTI예측 모델 구축하기 
+# [Advanced_ML] Personality Classification Based on the Text of posts
 ## (Due date: Nov 16)
 ### 팀원: 17011720 심소민, 17011730 이유진
 ======================
