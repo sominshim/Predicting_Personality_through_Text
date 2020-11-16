@@ -20,35 +20,10 @@
 	6. 결론 (Conclusion)
 ```
 ****
-## 1. 데이터 수집 (Data Collection)
+### 사용한 데이터
 Download Kaggle data \
 (MBTI) Myers-Briggs Personality Type Dataset
 - https://www.kaggle.com/datasnaek/mbti-type
 	
 ****
-## 2. 데이터 전처리 (Data Preprocessing)
 
-****	
-## 3. 탐색적 데이터 분석 (EDA: Exploratory Data Analysis)
-
-****	
-## 4. 모델 선택 (Model Selection)
-
-****	
-## 5. 평가 및 적용 (Evaluation & Application)
-
-****	
-## 6. 결론 (Conclusion)
-
-****
-
-
-## ○ 참고문서
-* [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
-* [Model for Personality Detection Based on Text Analysis](https://link.springer.com/chapter/10.1007/978-3-030-04497-8_17)
-
-* [MBTI 성격 설명](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm?bhcp=1)
-* [Personality Prediction from Social Media Text: An Overview]
-* [Predicting personality traits of facebook users using text mining]
-* [Predicting Personality with Twitter](https://researchswinger.org/publications/quercia11twitter.pdf)
-* [Adaptive Personality Recognition from Text](https://core.ac.uk/download/pdf/35317066.pdf)
