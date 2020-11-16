@@ -51,3 +51,4 @@ Download Kaggle data \
 * [Personality Prediction from Social Media Text: An Overview]
 * [Predicting personality traits of facebook users using text mining]
 * [Predicting Personality with Twitter](https://researchswinger.org/publications/quercia11twitter.pdf)
+* [Adaptive Personality Recognition from Text](https://core.ac.uk/download/pdf/35317066.pdf)
