@@ -26,4 +26,3 @@ Download Kaggle data \
 - https://www.kaggle.com/datasnaek/mbti-type
 	
 ****
-
